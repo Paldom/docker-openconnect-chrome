@@ -44,4 +44,3 @@ You can use the following environment variables:
 * **BROWSER_ARGS** - Params passed to Chrome, e.g. `google.com`
 * **VPN_ARGS** - `openconnect` arguments, e.g. `server --user=username`
 
-DOck
